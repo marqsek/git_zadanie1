@@ -1,1 +1,2 @@
 do zadania nr 1.
+push z gita
